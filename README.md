@@ -1,6 +1,6 @@
 # codex
 
-## Streamlit App
+## Hello World Streamlit App
 
 Run with:
 ```bash
